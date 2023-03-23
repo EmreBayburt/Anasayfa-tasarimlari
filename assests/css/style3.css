@@ -1,0 +1,31 @@
+body {
+    position: fixed;
+    background-image:url(/assests/img/calisma-3.jpg);
+}
+
+h1 p {
+    color: blue;
+    left: 900px;
+}
+h1 {
+    position: relative;
+    top: 30%;
+    height: 400px;
+    width: 1000px;
+}
+
+
+#banner {
+    position: relative;
+    font-size: 22px;
+    left: 900px;
+    height: 749px;
+    width: 100%;
+    padding: 1%;
+}
+
+button {
+    border-radius: 30px;
+    color: #fff;
+    background-color: blue;
+}

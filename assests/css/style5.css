@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+#container {
+    border-radius: 10px;
+    width: 1000px;
+    height: 200px;
+    background-color: gray;
+    position: absolute;
+    left: 25%;
+    top: 50%;
+    margin-left: -50px;
+    margin-top: -50px;
+}

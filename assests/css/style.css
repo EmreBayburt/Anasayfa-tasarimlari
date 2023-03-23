@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    position: fixed;
+    width: 100%;
+
+}
+
+h1 {
+    text-align: center;
+    margin-top : 180px;
+    font-size: 60px;
+}
+
+h1 p {
+    font-size: 60px;
+    color:blue
+}
+
+p {
+    margin: 0;
+    text-align: center;
+    font-size: medium;
+    color: grey;
+}
+
+div {
+    text-align: center;
+}

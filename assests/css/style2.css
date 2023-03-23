@@ -1,0 +1,39 @@
+body {
+    position: fixed;
+    background-image: url(assets/img/calisma-2.jp);
+    margin: 0px;
+    height: 100%;
+}
+#banner {
+    position: fixed;
+    height: 749px;
+    width: 100%;
+    padding: 1%;
+}
+
+h1 p {
+    color: blue;
+}
+
+h1 {
+    height: 100px;
+    width: 1600px;
+    text-align: center;
+}
+
+.mobilya {
+    text-align: center;
+    font-size: 32px;
+    height: 120px;
+    width: 1600px;
+}
+
+.button {
+    text-decoration: none;
+    margin-left: 750px;
+    background-color: blue;
+    color: #fff;
+    font-size: 30px;
+    border-radius: 20px;
+    display: inline-block;
+}
